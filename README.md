@@ -3,6 +3,10 @@ Evolved Code Browser
 
 This plugin leverages exuberant-ctags to build a side panel class browser in the gedit text editor (GNOME default text editor).
 
+### Homepage
+
+For more information about this plugin, consider visiting: <http://gedit.evolved.com.br/>.
+
 License
 -----
 
