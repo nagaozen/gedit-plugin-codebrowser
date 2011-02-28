@@ -46,5 +46,5 @@ Changes
 -----
 
 > @2011-02-28  
-> _new_: First release
+> _new_: Initial release
 
