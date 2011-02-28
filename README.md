@@ -40,7 +40,7 @@ Installation
 
 ### Plugin
 
-1. Download this repository using `$ git clone git://github.com/nagaozen/gedit-plugin-classbrowser.git` in your *nix terminal or by clicking at the Download button at top.
+1. Download this repository using `$ git clone git://github.com/nagaozen/gedit-plugin-classbrowser.git` in your *nix terminal or by clicking at the Download button at top selecting the master branch.
 1. Copy `codebrowser.gedit-plugin` file and `codebrowser` folder into your `~/.gnome2/gedit/plugins/` folder.
 1. Open gedit and click `Edit -> Preferences -> Plugins`.
 1. Check the `Evolved Code Browser` and hit `Close`.
