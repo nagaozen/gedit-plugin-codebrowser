@@ -69,6 +69,14 @@ pixbufs = {
     "union_priv": None,
     "union_prot": None,
     
+    "database": None,
+    "db_index": None,
+    "db_procedure": None,
+    "db_table": None,
+    "db_trigger": None,
+    "db_type": None,
+    "db_template": None,
+    
     "default": None,
     "patch": None
 }
