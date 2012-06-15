@@ -76,6 +76,7 @@ pixbufs = {
     "db_trigger": None,
     "db_type": None,
     "db_template": None,
+    "db_view": None,
     
     "default": None,
     "patch": None

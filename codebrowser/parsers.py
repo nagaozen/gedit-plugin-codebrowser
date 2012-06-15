@@ -170,6 +170,7 @@ class CTagsParser(ParserInterface):
             "db_trigger"       : "db_trigger",
             "db_type"          : "db_type",
             "db_template"      : "db_template",
+            "db_view"          : "db_view",
             "define"           : "typedef",
             "enum constant"    : "enum",
             "enum"             : "enum",
